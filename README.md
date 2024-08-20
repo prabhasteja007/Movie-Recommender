@@ -10,7 +10,7 @@ Getting Started
 To run the movie recommendation system locally, follow these steps:
 
 Clone the repository:
-Copygit clone https://github.com/your-username/movie-recommendation-system.git
+https://github.com/prabhasteja007/Movie-Recommender.git
 
 Navigate to the project directory:
 cd movie-recommendation-system
